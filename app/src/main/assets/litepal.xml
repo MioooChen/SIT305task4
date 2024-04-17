@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="BookStore"></dbname>
+    <version value="27"></version>
+    <list>
+        <mapping class="com.example.qqlist.bean.QQBean"></mapping>
+        <mapping class="com.example.qqlist.bean.UserInfoBean"></mapping>
+        <!--添加其他表-->
+<!--        <mapping class="com.example.meiyelauncher.bean.db.FingerUserInfo"></mapping>-->
+    </list>
+</litepal>
+    <!--
+    <dbname>是数据库的名字
+    <version>是数据库的版本号       ：更新数据库（增删表以、更新表结构），version的值需加一
+    <list>是数据库的映射模型（数据库表）
+    <mapping>是数据库的映射模型的地址（数据库表结构）:完整类名
+    -->

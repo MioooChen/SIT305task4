@@ -1,0 +1,28 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/TB_demo/jishiben2/QQlist3_kecheng_UI/app/src/main/res/layout/activity_wel.xml" value="0.24791666666666667" />
+        <entry key="..\:/TB_demo/jishiben2/QQlist3_kecheng_UI/app/src/main/res/layout/fragment_one.xml" value="0.19907407407407407" />
+        <entry key="..\:/TB_demo/jishiben2/QQlist3_renwu_UI/app/src/main/res/layout/activity_login.xml" value="0.25364583333333335" />
+        <entry key="..\:/TB_demo/jishiben2/QQlist3_renwu_UI/app/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/TB_demo/jishiben2/QQlist3_renwu_UI/app/src/main/res/layout/activity_qq_ae.xml" value="0.19166666666666668" />
+        <entry key="..\:/wps88800022/QQlist3_renwu_UI/app/src/main/res/layout/activity_login.xml" value="0.25364583333333335" />
+        <entry key="..\:/wps88800022/QQlist3_renwu_UI/app/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/wps88800022/QQlist3_renwu_UI/app/src/main/res/layout/activity_qq_ae.xml" value="0.25364583333333335" />
+        <entry key="..\:/wps88800022/QQlist3_renwu_UI/app/src/main/res/layout/activity_reset.xml" value="0.25364583333333335" />
+        <entry key="..\:/wps88800022/QQlist3_renwu_UI/app/src/main/res/layout/activity_web.xml" value="0.25364583333333335" />
+        <entry key="..\:/wps88800022/QQlist3_renwu_UI/app/src/main/res/layout/activity_wel.xml" value="0.25364583333333335" />
+        <entry key="..\:/wps88800022/QQlist3_renwu_UI/app/src/main/res/layout/dialog_regi.xml" value="0.25364583333333335" />
+        <entry key="..\:/wps88800022/QQlist3_renwu_UI/app/src/main/res/layout/fragment_one.xml" value="0.25364583333333335" />
+        <entry key="..\:/wps88800022/QQlist3_renwu_UI/app/src/main/res/layout/fragment_three.xml" value="0.25364583333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="corretto-1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
